@@ -1,0 +1,685 @@
+Friday 11th of March 2016 01:27:33 PM - 191.190.186.140 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:28:02 PM - 191.190.186.140 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:30:44 PM - 177.22.215.15 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:30:44 PM - 189.114.232.195 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:31:07 PM - 177.22.215.15 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:31:42 PM - 201.87.210.170 - Chrome - 49.0.2623.91 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:32:21 PM - 189.2.7.98 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:32:23 PM - 200.163.2.22 - Chrome - 48.0.2564.95 -  - Distrito Federal - Brazil
+Friday 11th of March 2016 01:33:50 PM - 189.38.218.81 - Chrome - 48.0.2564.116 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:33:57 PM - 177.186.172.234 - Chrome - 47.0.2526.100 -  -  - Brazil
+Friday 11th of March 2016 01:34:23 PM - 177.41.150.122 - Chrome - 48.0.2564.95 -  - Estado de Goi&aacute;s - Brazil
+Friday 11th of March 2016 01:34:46 PM - 179.11.163.166 - Chrome - 34.0.1847.76 -  -  - Brazil
+Friday 11th of March 2016 01:34:59 PM - 179.153.224.221 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:35:11 PM - 177.41.150.122 - Chrome - 48.0.2564.95 -  - Estado de Goi&aacute;s - Brazil
+Friday 11th of March 2016 01:35:14 PM - 187.106.168.100 - other - 0 - S&atilde;o Jos&eacute; Dos Campos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:35:27 PM - 191.216.118.3 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:35:30 PM - 189.60.114.76 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:35:31 PM - 189.60.114.76 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:36:22 PM - 187.180.193.151 - Firefox - 46.0 - Taubat&eacute; - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:36:53 PM - 187.40.230.20 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 01:36:56 PM - 187.40.230.20 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 01:37:21 PM - 201.47.66.232 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:38:01 PM - 179.209.15.109 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:38:23 PM - 179.178.32.55 - Firefox - 45.0 -  -  - Brazil
+Friday 11th of March 2016 01:38:24 PM - 179.178.32.55 - Firefox - 45.0 -  -  - Brazil
+Friday 11th of March 2016 01:38:31 PM - 191.190.186.140 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:38:44 PM - 191.247.227.44 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:38:58 PM - 179.35.100.173 - Firefox - 45.0 -  -  - Brazil
+Friday 11th of March 2016 01:39:01 PM - 177.13.178.217 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:39:02 PM - 187.114.118.107 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:39:11 PM - 189.40.64.104 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:39:20 PM - 177.156.1.215 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 01:39:28 PM - 143.107.79.94 - Chrome - 48.0.2564.116 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:39:34 PM - 191.11.23.85 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:39:38 PM - 179.178.32.55 - Firefox - 45.0 -  -  - Brazil
+Friday 11th of March 2016 01:40:33 PM - 177.120.105.184 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 01:40:37 PM - 179.176.134.143 - Firefox - 44.0 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:41:00 PM - 177.71.65.122 - Chrome - 48.0.2564.95 - Resende - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:41:00 PM - 179.141.148.9 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:41:13 PM - 187.3.10.38 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:41:14 PM - 179.141.148.9 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:41:25 PM - 191.247.224.2 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:41:46 PM - 189.13.65.185 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 01:42:13 PM - 179.212.197.47 - Safari - 601.1.46 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:42:24 PM - 189.112.168.225 - other - 0 -  -  - Brazil
+Friday 11th of March 2016 01:42:42 PM - 201.77.114.194 - Chrome - 48.0.2564.116 - Nova Odessa - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:42:42 PM - 187.106.168.100 - Safari - 537.86.4 - S&atilde;o Jos&eacute; Dos Campos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:42:49 PM - 187.99.71.149 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 01:42:52 PM - 179.209.35.185 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:42:58 PM - 200.179.97.210 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 01:43:00 PM - 177.72.88.89 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:43:03 PM - 177.72.88.89 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:43:03 PM - 186.230.32.240 - Chrome - 49.0.2623.87 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:43:07 PM - 177.40.220.167 - Chrome - 49.0.2623.91 - Vit&oacute;ria - Esp&iacute;rito Santo - Brazil
+Friday 11th of March 2016 01:43:07 PM - 179.234.43.60 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:43:22 PM - 179.135.178.94 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:43:24 PM - 186.223.20.199 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:43:25 PM - 189.89.150.190 - Chrome - 49.0.2623.91 - Mata De S&atilde;o Jo&atilde;o - Bahia - Brazil
+Friday 11th of March 2016 01:43:26 PM - 187.14.80.212 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:43:32 PM - 191.254.128.94 - Chrome - 28.0.1500.94 -  -  - Brazil
+Friday 11th of March 2016 01:43:41 PM - 179.215.15.129 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 01:43:48 PM - 191.247.224.2 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:43:57 PM - 179.97.123.247 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 01:44:02 PM - 189.40.83.92 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:44:16 PM - 177.206.147.224 - Chrome - 34.0.1847.76 -  -  - Brazil
+Friday 11th of March 2016 01:44:17 PM - 179.97.123.247 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 01:44:18 PM - 189.55.188.104 - Chrome - 48.0.2564.95 - Mogi Das Cruzes - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:44:19 PM - 189.40.127.97 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:44:22 PM - 191.247.227.44 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:44:58 PM - 179.215.205.70 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:45:02 PM - 191.247.227.35 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:45:10 PM - 177.79.32.112 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:45:14 PM - 187.114.118.107 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:45:22 PM - 179.35.77.52 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:45:24 PM - 177.69.63.80 - other - 0 -  -  - Brazil
+Friday 11th of March 2016 01:45:42 PM - 189.66.111.69 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:45:49 PM - 191.247.227.44 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:45:58 PM - 179.213.87.146 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:46:17 PM - 177.200.89.194 - Chrome - 49.0.2623.91 - Fortaleza - Cear&aacute; - Brazil
+Friday 11th of March 2016 01:46:25 PM - 179.255.16.238 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 01:47:12 PM - 179.215.205.70 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:47:20 PM - 186.225.22.193 - Chrome - 48.0.2564.116 - Mogi Das Cruzes - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:47:21 PM - 179.66.128.124 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:47:27 PM - 177.200.49.175 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:47:31 PM - 179.66.128.124 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:47:31 PM - 189.44.107.26 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 01:47:32 PM - 179.66.128.124 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:47:33 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:47:36 PM - 179.215.205.70 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 01:47:46 PM - 179.178.7.120 - Chrome - 33.0.0.0 -  -  - Brazil
+Friday 11th of March 2016 01:47:54 PM - 191.177.43.231 - Chrome - 49.0.2623.91 - Curitiba - Paran&aacute; - Brazil
+Friday 11th of March 2016 01:48:15 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:48:16 PM - 191.174.113.119 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:48:21 PM - 191.16.95.152 - Chrome - 30.0.1599.103 -  -  - Brazil
+Friday 11th of March 2016 01:48:23 PM - 200.220.199.66 - Chrome - 40.0.2214.109 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:48:25 PM - 191.16.95.152 - Chrome - 30.0.1599.103 -  -  - Brazil
+Friday 11th of March 2016 01:48:33 PM - 191.16.95.152 - Chrome - 30.0.1599.103 -  -  - Brazil
+Friday 11th of March 2016 01:48:34 PM - 191.174.113.119 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:48:44 PM - 200.220.199.66 - Chrome - 40.0.2214.109 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:48:48 PM - 152.234.176.101 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:49:03 PM - 200.220.199.66 - Chrome - 40.0.2214.109 - S&atilde;o Gon&ccedil;alo - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:49:06 PM - 191.16.95.152 - Chrome - 30.0.1599.103 -  -  - Brazil
+Friday 11th of March 2016 01:49:15 PM - 177.72.88.89 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:49:21 PM - 191.16.95.152 - Chrome - 30.0.1599.103 -  -  - Brazil
+Friday 11th of March 2016 01:49:24 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:49:24 PM - 191.214.65.195 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:49:44 PM - 189.76.138.176 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:49:46 PM - 189.102.3.33 - Chrome - 48.0.2564.95 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:49:55 PM - 200.19.65.34 - Firefox - 45.0 -  -  - Brazil
+Friday 11th of March 2016 01:50:22 PM - 200.97.196.132 - Chrome - 49.0.2623.91 -  - Minas Gerais - Brazil
+Friday 11th of March 2016 01:50:26 PM - 187.80.5.113 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:50:27 PM - 187.80.5.113 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:50:30 PM - 179.234.49.118 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:50:39 PM - 200.97.196.132 - Chrome - 49.0.2623.91 -  - Minas Gerais - Brazil
+Friday 11th of March 2016 01:50:48 PM - 177.186.121.179 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:50:48 PM - 152.250.211.245 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 01:50:55 PM - 152.250.211.245 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 01:50:58 PM - 152.250.211.245 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 01:51:04 PM - 191.251.135.81 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:51:13 PM - 177.132.208.149 - Chrome - 39.0.2171.93 - Porto Alegre - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 01:51:14 PM - 189.40.75.120 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:51:42 PM - 179.233.192.187 - Chrome - 48.0.2564.95 -  - Santa Catarina - Brazil
+Friday 11th of March 2016 01:51:49 PM - 179.178.7.120 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:51:53 PM - 179.178.7.120 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:51:53 PM - 191.39.14.234 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:52:00 PM - 187.80.9.172 - Chrome - 48.0.2564.106 -  -  - Brazil
+Friday 11th of March 2016 01:52:01 PM - 177.17.11.69 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:52:03 PM - 177.17.11.69 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:52:06 PM - 179.128.36.248 - Chrome - 34.0.1847.76 -  -  - Brazil
+Friday 11th of March 2016 01:52:14 PM - 179.64.70.68 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:52:19 PM - 179.128.36.248 - Chrome - 34.0.1847.76 -  -  - Brazil
+Friday 11th of March 2016 01:52:23 PM - 201.6.131.159 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:52:25 PM - 200.222.88.165 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:52:32 PM - 179.171.247.95 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:52:44 PM - 189.12.190.75 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 01:52:58 PM - 177.76.171.177 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:53:01 PM - 187.122.241.74 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:53:12 PM - 191.209.17.119 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 01:53:15 PM - 177.87.0.38 - Safari - 601.1.46 - Cupira - Pernambuco - Brazil
+Friday 11th of March 2016 01:53:21 PM - 201.25.187.59 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:53:22 PM - 152.250.211.245 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 01:53:25 PM - 179.128.36.248 - Chrome - 34.0.1847.76 -  -  - Brazil
+Friday 11th of March 2016 01:53:29 PM - 186.208.121.254 - Chrome - 49.0.2623.91 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:53:30 PM - 186.208.121.254 - Chrome - 49.0.2623.91 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:53:30 PM - 187.255.222.138 - Safari - 601.4.4 -  -  - Brazil
+Friday 11th of March 2016 01:53:35 PM - 187.255.222.138 - Safari - 601.4.4 -  -  - Brazil
+Friday 11th of March 2016 01:53:47 PM - 187.122.241.74 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:53:51 PM - 177.87.0.38 - Safari - 601.1.46 - Cupira - Pernambuco - Brazil
+Friday 11th of March 2016 01:54:03 PM - 201.11.190.154 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:54:16 PM - 186.215.14.223 - Firefox - 44.0 -  -  - Brazil
+Friday 11th of March 2016 01:54:21 PM - 177.13.206.187 - Chrome - 48.0.2564.95 - Campo Grande - Mato Grosso do Sul - Brazil
+Friday 11th of March 2016 01:54:28 PM - 187.26.8.38 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:54:33 PM - 187.26.8.38 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:54:34 PM - 177.19.38.212 - Chrome - 46.0.2486.0 - Niter&oacute;i - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:54:39 PM - 177.19.38.212 - Chrome - 46.0.2486.0 - Niter&oacute;i - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:54:54 PM - 177.13.206.187 - Chrome - 48.0.2564.95 - Campo Grande - Mato Grosso do Sul - Brazil
+Friday 11th of March 2016 01:55:06 PM - 187.112.56.140 - Chrome - 49.0.2623.91 - Curitiba - Paran&aacute; - Brazil
+Friday 11th of March 2016 01:55:14 PM - 187.112.56.140 - Chrome - 49.0.2623.91 - Curitiba - Paran&aacute; - Brazil
+Friday 11th of March 2016 01:55:15 PM - 187.112.56.140 - Chrome - 49.0.2623.91 - Curitiba - Paran&aacute; - Brazil
+Friday 11th of March 2016 01:55:26 PM - 177.176.247.15 - Firefox - 45.0 -  -  - Brazil
+Friday 11th of March 2016 01:55:42 PM - 191.247.225.33 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:55:51 PM - 187.112.56.140 - Chrome - 34.0.1847.76 - Curitiba - Paran&aacute; - Brazil
+Friday 11th of March 2016 01:55:53 PM - 187.26.8.38 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:56:20 PM - 187.26.8.38 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:56:23 PM - 187.122.163.145 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:56:30 PM - 177.79.44.157 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:56:56 PM - 186.215.166.162 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:56:57 PM - 186.215.166.162 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:57:07 PM - 177.38.37.234 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 01:57:09 PM - 177.135.168.30 - Chrome - 48.0.2564.116 - Campinas - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:57:13 PM - 177.135.168.30 - Chrome - 48.0.2564.116 - Campinas - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:57:25 PM - 179.169.109.115 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 01:57:30 PM - 186.215.166.162 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 01:57:33 PM - 179.209.142.61 - Chrome - 38.0.2125.102 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:58:02 PM - 177.79.20.79 - Chrome - 49.0.2623.91 - Mag&eacute; - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:58:35 PM - 177.34.87.4 - Chrome - 48.0.2564.95 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 01:59:08 PM - 189.41.27.72 - Chrome - 49.0.2623.91 - Uberl&acirc;ndia - Minas Gerais - Brazil
+Friday 11th of March 2016 01:59:16 PM - 189.41.27.72 - Chrome - 49.0.2623.91 - Uberl&acirc;ndia - Minas Gerais - Brazil
+Friday 11th of March 2016 01:59:23 PM - 189.27.178.178 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:59:32 PM - 177.77.171.10 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 01:59:32 PM - 191.39.68.23 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 01:59:37 PM - 191.39.68.23 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:00:03 PM - 191.39.68.23 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:00:17 PM - 177.139.138.50 - Safari - 534.30 -  -  - Brazil
+Friday 11th of March 2016 02:00:48 PM - 200.192.79.12 - IE - 8.0 -  -  - Brazil
+Friday 11th of March 2016 02:00:57 PM - 177.177.206.236 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:01:08 PM - 200.101.111.226 - Chrome - 48.0.2564.95 - Palmas - Tocantins - Brazil
+Friday 11th of March 2016 02:01:19 PM - 201.1.120.9 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:01:36 PM - 201.87.210.170 - Chrome - 49.0.2623.91 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:01:42 PM - 138.255.27.95 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:01:50 PM - 191.190.186.140 - Chrome - 42.0.2311.135 -  -  - Brazil
+Friday 11th of March 2016 02:01:52 PM - 179.193.197.110 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:01:56 PM - 179.193.197.110 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:02:00 PM - 200.101.111.226 - Chrome - 48.0.2564.95 - Palmas - Tocantins - Brazil
+Friday 11th of March 2016 02:02:03 PM - 177.97.121.104 - Chrome - 48.0.2564.95 - Porto Alegre - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 02:02:06 PM - 177.97.121.104 - Chrome - 48.0.2564.95 - Porto Alegre - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 02:02:34 PM - 138.255.27.95 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:02:57 PM - 179.193.152.12 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:02:57 PM - 179.180.54.159 - Chrome - 40.0.2214.109 -  -  - Brazil
+Friday 11th of March 2016 02:03:02 PM - 200.101.111.226 - Chrome - 48.0.2564.95 - Palmas - Tocantins - Brazil
+Friday 11th of March 2016 02:03:03 PM - 191.247.229.13 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:03:06 PM - 200.101.111.226 - Chrome - 48.0.2564.95 - Palmas - Tocantins - Brazil
+Friday 11th of March 2016 02:03:10 PM - 201.9.56.134 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:03:37 PM - 179.166.216.89 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 02:03:39 PM - 200.203.30.230 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:03:41 PM - 177.25.134.202 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:03:43 PM - 201.9.56.134 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:03:45 PM - 187.255.27.30 - IE - 7.0 - Guarulhos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:03:46 PM - 191.247.229.13 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:04:01 PM - 187.74.251.126 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:04:04 PM - 187.117.83.68 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:04:14 PM - 191.220.195.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:04:19 PM - 191.220.195.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:04:22 PM - 191.247.224.17 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:04:28 PM - 191.247.229.13 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:04:31 PM - 186.244.212.88 - Safari - 534.30 -  -  - Brazil
+Friday 11th of March 2016 02:04:32 PM - 177.17.113.213 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:04:45 PM - 191.196.248.142 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:04:55 PM - 177.79.47.145 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:05:02 PM - 177.13.155.19 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 02:05:09 PM - 187.117.83.68 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:05:40 PM - 187.124.68.18 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:06:10 PM - 179.98.190.125 - Chrome - 48.0.2564.116 - Pindamonhangaba - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:06:10 PM - 177.87.105.64 - Chrome - 38.0.2125.102 - Olho D'agua - Roraima - Brazil
+Friday 11th of March 2016 02:06:14 PM - 177.176.124.54 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:06:22 PM - 200.140.230.241 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:06:35 PM - 177.156.246.54 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:06:52 PM - 187.255.27.30 - IE - 7.0 - Guarulhos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:06:53 PM - 179.153.233.194 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:07:07 PM - 179.192.224.238 - Chrome - 48.0.2564.95 -  - Par&aacute; - Brazil
+Friday 11th of March 2016 02:08:31 PM - 189.120.40.170 - Chrome - 48.0.2564.116 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:09:03 PM - 179.192.224.238 - Chrome - 48.0.2564.95 - Bel&eacute;m - Par&aacute; - Brazil
+Friday 11th of March 2016 02:09:12 PM - 191.178.170.243 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:09:24 PM - 191.178.107.90 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:09:32 PM - 189.79.97.152 - Safari - 534.30 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:09:43 PM - 189.79.97.152 - Safari - 534.30 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:10:05 PM - 201.71.159.243 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:10:32 PM - 187.11.121.168 - other - 0 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:10:37 PM - 187.94.31.72 - Chrome - 49.0.2623.91 - Lap&atilde;o - Bahia - Brazil
+Friday 11th of March 2016 02:10:43 PM - 177.131.53.146 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 02:10:56 PM - 179.194.10.33 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:11:25 PM - 177.11.94.235 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 02:11:32 PM - 187.20.107.35 - Chrome - 49.0.2623.87 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 02:11:56 PM - 187.99.71.149 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 02:11:58 PM - 179.115.138.104 - Safari - 534.30 -  -  - Brazil
+Friday 11th of March 2016 02:12:03 PM - 177.96.116.9 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:12:09 PM - 187.20.107.35 - Chrome - 49.0.2623.87 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 02:12:15 PM - 187.99.71.149 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 02:12:15 PM - 191.247.231.21 - Chrome - 48.0.2564.95 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:12:38 PM - 187.99.71.149 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 02:12:40 PM - 191.181.181.164 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:12:45 PM - 191.247.231.21 - Chrome - 48.0.2564.95 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:12:45 PM - 187.99.71.149 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 02:12:46 PM - 177.9.196.154 - Safari - 534.30 -  -  - Brazil
+Friday 11th of March 2016 02:12:50 PM - 187.20.107.35 - Chrome - 49.0.2623.87 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 02:13:02 PM - 191.181.181.164 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:13:13 PM - 187.99.71.149 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:13:25 PM - 191.247.231.21 - Chrome - 48.0.2564.95 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:13:26 PM - 187.122.125.185 - Chrome - 49.0.2623.91 - Osasco - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:13:30 PM - 187.99.71.149 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:13:33 PM - 177.96.116.9 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:14:04 PM - 189.40.95.199 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:14:17 PM - 187.99.71.149 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:14:20 PM - 177.96.116.9 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:14:34 PM - 191.196.70.103 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:15:09 PM - 191.28.202.250 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:15:15 PM - 187.1.88.154 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 02:17:31 PM - 187.99.71.149 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 02:17:46 PM - 191.189.72.120 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:17:56 PM - 179.129.91.127 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:18:00 PM - 179.129.91.127 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:18:00 PM - 191.189.72.120 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:18:05 PM - 179.129.91.127 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:18:09 PM - 191.181.181.164 - Chrome - 50.0.2661.18 -  -  - Brazil
+Friday 11th of March 2016 02:18:21 PM - 191.181.181.164 - Chrome - 50.0.2661.18 -  -  - Brazil
+Friday 11th of March 2016 02:18:29 PM - 191.181.181.164 - Chrome - 50.0.2661.18 -  -  - Brazil
+Friday 11th of March 2016 02:18:39 PM - 191.181.181.164 - Chrome - 50.0.2661.18 -  -  - Brazil
+Friday 11th of March 2016 02:18:39 PM - 179.209.208.240 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:18:43 PM - 201.22.74.177 - IE - 8.0 - Apucarana - Paran&aacute; - Brazil
+Friday 11th of March 2016 02:18:46 PM - 191.181.181.164 - Chrome - 50.0.2661.18 -  -  - Brazil
+Friday 11th of March 2016 02:18:55 PM - 179.125.247.154 - Firefox - 45.0 -  -  - Brazil
+Friday 11th of March 2016 02:19:04 PM - 201.22.74.177 - IE - 8.0 - Apucarana - Paran&aacute; - Brazil
+Friday 11th of March 2016 02:19:27 PM - 179.119.181.164 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:19:29 PM - 179.119.181.164 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:19:30 PM - 179.210.45.147 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:19:35 PM - 179.210.45.147 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:20:03 PM - 189.33.175.212 - Chrome - 48.0.2564.106 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:20:10 PM - 201.22.74.177 - IE - 8.0 - Apucarana - Paran&aacute; - Brazil
+Friday 11th of March 2016 02:20:22 PM - 177.21.242.210 - Chrome - 44.0.2403.119 - Lapa - Paran&aacute; - Brazil
+Friday 11th of March 2016 02:20:58 PM - 179.155.193.189 - Chrome - 49.0.2623.91 - Joinville - Santa Catarina - Brazil
+Friday 11th of March 2016 02:21:01 PM - 179.183.119.127 - Chrome - 48.0.2564.95 - Salvador - Bahia - Brazil
+Friday 11th of March 2016 02:21:07 PM - 179.155.193.189 - Chrome - 49.0.2623.91 - Joinville - Santa Catarina - Brazil
+Friday 11th of March 2016 02:21:25 PM - 189.104.221.16 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:22:02 PM - 191.178.107.90 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:22:40 PM - 186.242.147.95 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:23:24 PM - 201.50.138.71 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:23:40 PM - 189.120.40.170 - Chrome - 48.0.2564.116 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:23:42 PM - 189.4.93.94 - Chrome - 49.0.2623.91 -  - Santa Catarina - Brazil
+Friday 11th of March 2016 02:24:00 PM - 200.97.232.194 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:25:20 PM - 187.85.86.68 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 02:26:35 PM - 177.126.80.110 - Chrome - 49.0.2623.91 - Morrinhos - Estado de Goi&aacute;s - Brazil
+Friday 11th of March 2016 02:26:56 PM - 186.214.16.109 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:26:59 PM - 179.218.177.120 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:27:01 PM - 177.199.151.47 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:27:10 PM - 189.120.40.170 - Chrome - 48.0.2564.116 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:28:40 PM - 187.109.155.12 - Chrome - 48.0.2564.95 - Agudos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:28:55 PM - 191.22.176.62 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:30:21 PM - 189.40.6.225 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:30:22 PM - 189.81.182.247 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:30:45 PM - 191.247.226.26 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:31:03 PM - 189.81.182.247 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:31:04 PM - 189.40.6.225 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 02:31:14 PM - 189.82.8.145 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:31:43 PM - 187.11.236.196 - Firefox - 31.0 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:31:44 PM - 189.82.8.145 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:32:04 PM - 187.77.217.228 - Chrome - 34.0.1847.118 -  -  - Brazil
+Friday 11th of March 2016 02:32:32 PM - 189.82.8.145 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:32:37 PM - 191.251.149.239 - Chrome - 48.0.2564.95 - Guarulhos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:32:41 PM - 191.251.149.239 - Chrome - 48.0.2564.95 - Guarulhos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:33:48 PM - 179.129.47.232 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:34:13 PM - 186.206.254.70 - Chrome - 49.0.2623.91 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 02:34:23 PM - 177.158.108.32 - Chrome - 42.0.2311.133 - Recife - Pernambuco - Brazil
+Friday 11th of March 2016 02:34:32 PM - 179.129.47.232 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:34:40 PM - 179.185.110.152 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 02:34:45 PM - 191.247.229.59 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:35:12 PM - 186.216.173.241 - Chrome - 34.0.1847.118 -  - Amap&aacute; - Brazil
+Friday 11th of March 2016 02:35:12 PM - 186.206.254.70 - Chrome - 49.0.2623.91 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 02:35:32 PM - 177.18.115.88 - Chrome - 49.0.2623.91 - Esteio - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 02:39:07 PM - 177.158.108.32 - Chrome - 42.0.2311.133 - Recife - Pernambuco - Brazil
+Friday 11th of March 2016 02:39:38 PM - 177.79.35.168 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:39:42 PM - 177.20.130.1 - Chrome - 49.0.2623.87 - Natal - Rio Grande do Norte - Brazil
+Friday 11th of March 2016 02:41:08 PM - 177.65.34.167 - Chrome - 49.0.2623.91 - Duque De Caxias - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:41:20 PM - 187.87.207.17 - Chrome - 48.0.2564.95 - Cachoeira - Bahia - Brazil
+Friday 11th of March 2016 02:41:27 PM - 201.75.160.233 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:41:32 PM - 177.65.34.167 - Chrome - 49.0.2623.91 - Duque De Caxias - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:41:36 PM - 177.65.34.167 - Chrome - 49.0.2623.91 - Duque De Caxias - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:41:49 PM - 187.104.209.25 - Chrome - 48.0.2564.95 - Bras&iacute;lia - Distrito Federal - Brazil
+Friday 11th of March 2016 02:42:15 PM - 177.158.108.32 - Chrome - 42.0.2311.133 - Recife - Pernambuco - Brazil
+Friday 11th of March 2016 02:43:25 PM - 187.87.207.17 - Chrome - 48.0.2564.95 - Cachoeira - Bahia - Brazil
+Friday 11th of March 2016 02:43:32 PM - 187.104.209.25 - Chrome - 48.0.2564.95 - Bras&iacute;lia - Distrito Federal - Brazil
+Friday 11th of March 2016 02:44:12 PM - 189.82.8.145 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:45:15 PM - 177.79.28.79 - Safari - 601.1 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:45:29 PM - 186.206.151.37 - Chrome - 28.0.1500.94 -  - Minas Gerais - Brazil
+Friday 11th of March 2016 02:45:30 PM - 201.92.201.181 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:45:45 PM - 186.206.151.37 - Chrome - 28.0.1500.94 -  - Minas Gerais - Brazil
+Friday 11th of March 2016 02:45:49 PM - 179.91.151.192 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 02:45:50 PM - 177.158.108.32 - Chrome - 42.0.2311.133 - Recife - Pernambuco - Brazil
+Friday 11th of March 2016 02:46:00 PM - 177.158.108.32 - Chrome - 42.0.2311.133 - Recife - Pernambuco - Brazil
+Friday 11th of March 2016 02:46:00 PM - 177.35.226.117 - Chrome - 48.0.2564.95 - Valinhos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 02:46:18 PM - 201.92.201.181 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:47:03 PM - 179.11.197.200 - Chrome - 38.0.2125.102 -  -  - Brazil
+Friday 11th of March 2016 02:47:43 PM - 191.174.39.232 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:48:09 PM - 191.174.39.232 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:48:15 PM - 177.135.246.113 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:48:43 PM - 177.13.234.11 - Chrome - 48.0.2564.95 - Ananindeua - Par&aacute; - Brazil
+Friday 11th of March 2016 02:49:06 PM - 189.39.115.194 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 02:49:40 PM - 191.250.171.176 - Firefox - 44.0 -  -  - Brazil
+Friday 11th of March 2016 02:49:42 PM - 201.53.162.39 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:49:44 PM - 201.53.162.39 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 02:50:15 PM - 177.158.108.32 - Chrome - 42.0.2311.133 - Recife - Pernambuco - Brazil
+Friday 11th of March 2016 02:50:46 PM - 177.158.108.32 - Chrome - 42.0.2311.133 - Recife - Pernambuco - Brazil
+Friday 11th of March 2016 02:51:21 PM - 187.18.125.181 - Safari - 537 - Londrina - Paran&aacute; - Brazil
+Friday 11th of March 2016 02:53:14 PM - 191.174.32.109 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:53:35 PM - 191.174.32.109 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 02:58:06 PM - 179.103.24.85 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 02:58:21 PM - 177.17.136.229 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 03:00:48 PM - 201.150.113.102 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:01:39 PM - 201.150.113.102 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:03:17 PM - 177.144.7.151 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 03:03:18 PM - 177.79.0.73 - Chrome - 48.0.2564.95 - Porto Alegre - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 03:03:20 PM - 177.79.0.73 - Chrome - 48.0.2564.95 - Porto Alegre - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 03:03:21 PM - 177.79.0.73 - Chrome - 48.0.2564.95 - Porto Alegre - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 03:03:28 PM - 152.238.203.217 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:03:49 PM - 177.19.59.121 - Chrome - 48.0.2564.95 - Niter&oacute;i - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:05:17 PM - 177.220.136.67 - Chrome - 38.0.2125.102 - Cascavel - Paran&aacute; - Brazil
+Friday 11th of March 2016 03:06:53 PM - 187.13.246.88 - Chrome - 49.0.2623.91 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:08:36 PM - 201.51.156.1 - Chrome - 48.0.2564.116 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:09:20 PM - 177.45.156.207 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:09:49 PM - 179.199.107.160 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 03:10:14 PM - 177.45.156.207 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:10:36 PM - 186.242.219.40 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:11:32 PM - 177.79.27.75 - Chrome - 38.0.2125.102 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 03:11:35 PM - 177.76.245.190 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:18:00 PM - 186.206.254.70 - Chrome - 49.0.2623.91 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 03:18:57 PM - 191.56.160.30 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:21:02 PM - 191.33.10.221 - Chrome - 30.0.0.0 - Jaboat&atilde;o - Pernambuco - Brazil
+Friday 11th of March 2016 03:21:13 PM - 179.154.225.169 - Chrome - 48.0.2564.95 - Olinda - Pernambuco - Brazil
+Friday 11th of March 2016 03:21:41 PM - 179.150.176.124 - Safari - 534.30 -  -  - Brazil
+Friday 11th of March 2016 03:22:51 PM - 201.54.208.193 - Chrome - 48.0.2564.116 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 03:23:03 PM - 186.227.220.38 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 03:23:27 PM - 201.54.208.193 - Chrome - 48.0.2564.116 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 03:23:55 PM - 189.120.241.251 - other - 0 -  -  - Brazil
+Friday 11th of March 2016 03:24:21 PM - 152.244.249.102 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:25:18 PM - 201.54.208.193 - Chrome - 48.0.2564.116 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 03:25:48 PM - 179.197.222.94 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 03:28:40 PM - 191.39.67.136 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 03:28:55 PM - 179.246.221.233 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 03:30:06 PM - 191.39.65.3 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:30:06 PM - 152.250.242.199 - Chrome - 49.0.2623.91 - S&atilde;o Jos&eacute; Dos Campos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 03:30:10 PM - 152.250.242.199 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 03:30:13 PM - 152.250.242.199 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 03:34:09 PM - 189.102.16.123 - Safari - 601.1 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 03:39:58 PM - 187.19.57.244 - Chrome - 48.0.2564.95 - Campos - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:40:13 PM - 187.19.57.244 - Chrome - 48.0.2564.95 - Campos - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:46:08 PM - 200.139.202.200 - Chrome - 48.0.2564.95 - S&atilde;o Gon&ccedil;alo - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:46:27 PM - 200.139.202.200 - Chrome - 48.0.2564.95 -  - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:49:13 PM - 200.140.15.65 - Chrome - 48.0.2564.116 - Bras&iacute;lia - Distrito Federal - Brazil
+Friday 11th of March 2016 03:53:26 PM - 186.205.2.11 - Safari - 601.1 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 03:53:35 PM - 201.17.233.218 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 03:55:29 PM - 191.189.9.28 - Chrome - 48.0.2564.116 - Manaus - Estado do Amazonas - Brazil
+Friday 11th of March 2016 03:56:55 PM - 191.189.9.28 - Chrome - 48.0.2564.116 - Manaus - Estado do Amazonas - Brazil
+Friday 11th of March 2016 03:58:08 PM - 191.189.9.28 - Chrome - 48.0.2564.116 - Manaus - Estado do Amazonas - Brazil
+Friday 11th of March 2016 04:06:10 PM - 187.56.202.193 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 04:06:53 PM - 179.91.52.172 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 04:07:41 PM - 187.56.202.193 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 04:08:24 PM - 177.13.26.45 - Chrome - 48.0.2564.95 - Contagem - Minas Gerais - Brazil
+Friday 11th of March 2016 04:09:07 PM - 177.13.26.45 - Chrome - 48.0.2564.95 - Contagem - Minas Gerais - Brazil
+Friday 11th of March 2016 04:09:52 PM - 177.13.26.45 - Chrome - 48.0.2564.95 - Contagem - Minas Gerais - Brazil
+Friday 11th of March 2016 04:10:06 PM - 177.13.26.45 - Chrome - 48.0.2564.95 - Contagem - Minas Gerais - Brazil
+Friday 11th of March 2016 04:10:07 PM - 179.130.198.144 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:12:57 PM - 179.222.73.201 - Chrome - 49.0.2623.91 - Manaus - Estado do Amazonas - Brazil
+Friday 11th of March 2016 04:13:33 PM - 179.222.73.201 - Chrome - 49.0.2623.91 - Manaus - Estado do Amazonas - Brazil
+Friday 11th of March 2016 04:14:28 PM - 179.103.17.116 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:15:08 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:15:33 PM - 179.200.244.237 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:15:41 PM - 177.194.92.43 - Chrome - 49.0.2623.91 - Paul&iacute;nia - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 04:16:53 PM - 189.15.3.60 - Chrome - 46.0.2486.0 -  -  - Brazil
+Friday 11th of March 2016 04:16:56 PM - 189.15.3.60 - Firefox - 20.0 -  -  - Brazil
+Friday 11th of March 2016 04:17:48 PM - 179.244.75.10 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 04:19:38 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:19:58 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:20:31 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:21:21 PM - 179.200.244.237 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:28:47 PM - 177.41.192.132 - Firefox - 44.0 -  -  - Brazil
+Friday 11th of March 2016 04:29:10 PM - 179.224.55.72 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 04:30:44 PM - 177.41.192.132 - Firefox - 44.0 -  -  - Brazil
+Friday 11th of March 2016 04:31:45 PM - 201.22.227.37 - Safari - 601.1 - Santa Maria - Rio Grande do Sul - Brazil
+Friday 11th of March 2016 04:31:55 PM - 186.222.138.13 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:36:07 PM - 191.16.146.196 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:41:38 PM - 179.228.108.32 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 04:43:50 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:44:49 PM - 191.247.226.44 - Safari - 600.1.4 -  -  - Brazil
+Friday 11th of March 2016 04:44:57 PM - 191.63.199.210 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:45:21 PM - 152.250.211.245 - Chrome - 39.0.2171.93 -  -  - Brazil
+Friday 11th of March 2016 04:48:05 PM - 187.55.88.42 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 04:49:20 PM - 191.255.135.60 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:53:15 PM - 186.206.254.70 - Chrome - 49.0.2623.91 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 04:56:05 PM - 189.9.20.129 - Chrome - 49.0.2623.87 -  -  - Brazil
+Friday 11th of March 2016 04:57:25 PM - 187.77.202.215 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 04:57:52 PM - 179.232.195.216 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 04:58:50 PM - 201.6.129.80 - Chrome - 48.0.2564.95 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 04:59:45 PM - 201.6.129.80 - Chrome - 48.0.2564.95 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 04:59:46 PM - 201.6.129.80 - Chrome - 48.0.2564.95 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 05:06:02 PM - 187.12.121.218 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 05:10:06 PM - 177.3.154.46 - Chrome - 48.0.2564.95 - Itaja&iacute; - Santa Catarina - Brazil
+Friday 11th of March 2016 05:23:59 PM - 190.112.206.185 - Chrome - 48.0.2564.95 - Salvador - Bahia - Brazil
+Friday 11th of March 2016 05:26:58 PM - 179.234.201.51 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 05:27:03 PM - 179.234.201.51 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 05:30:10 PM - 179.234.98.50 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 05:30:21 PM - 179.234.98.50 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 05:34:40 PM - 191.247.224.49 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 05:34:56 PM - 189.29.252.253 - Chrome - 42.0.2311.90 -  -  - Brazil
+Friday 11th of March 2016 05:51:52 PM - 177.157.170.223 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 06:02:12 PM - 191.247.225.38 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 06:02:31 PM - 191.247.225.38 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 06:02:40 PM - 191.247.225.38 - Chrome - 47.0.2526.83 -  -  - Brazil
+Friday 11th of March 2016 06:10:16 PM - 186.228.170.75 - Chrome - 49.0.2623.91 - Duque De Caxias - Rio de Janeiro - Brazil
+Friday 11th of March 2016 06:10:26 PM - 152.236.147.141 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 06:10:27 PM - 152.236.147.141 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 06:11:52 PM - 177.13.225.44 - Chrome - 48.0.2564.95 -  - Distrito Federal - Brazil
+Friday 11th of March 2016 06:12:23 PM - 187.74.107.86 - Chrome - 48.0.2564.95 - Jandira - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 06:12:28 PM - 187.74.107.86 - Chrome - 48.0.2564.95 - Jandira - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 06:13:03 PM - 186.228.170.75 - Chrome - 49.0.2623.91 - Duque De Caxias - Rio de Janeiro - Brazil
+Friday 11th of March 2016 06:20:46 PM - 189.4.125.93 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 06:25:32 PM - 189.4.125.93 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 06:27:09 PM - 152.237.92.102 - Chrome - 49.0.2623.91 - Cabo Frio - Rio de Janeiro - Brazil
+Friday 11th of March 2016 06:27:35 PM - 189.4.125.93 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 06:30:04 PM - 189.4.125.93 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 06:30:14 PM - 189.4.125.93 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 06:34:47 PM - 177.79.24.137 - Chrome - 40.0.2214.109 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 06:40:20 PM - 187.64.239.107 - Safari - 534.30 -  -  - Brazil
+Friday 11th of March 2016 06:54:35 PM - 187.59.101.179 - Safari - 600.1.4 -  - Esp&iacute;rito Santo - Brazil
+Friday 11th of March 2016 06:56:12 PM - 179.34.50.102 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 07:17:21 PM - 189.122.117.39 - Safari - 601.1 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 07:18:42 PM - 191.170.15.100 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 07:26:08 PM - 189.34.133.172 - Chrome - 28.0.1500.94 - Santos - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 07:26:44 PM - 179.192.219.107 - Chrome - 43.0.2357.93 -  -  - Brazil
+Friday 11th of March 2016 07:36:03 PM - 189.59.189.36 - Safari - 601.1 - Belo Horizonte - Minas Gerais - Brazil
+Friday 11th of March 2016 07:39:58 PM - 189.68.29.79 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 07:51:42 PM - 200.205.63.179 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 07:53:10 PM - 177.80.92.84 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 08:04:55 PM - 187.40.113.105 - Safari - 537 -  -  - Brazil
+Friday 11th of March 2016 08:07:22 PM - 177.86.28.183 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 08:10:46 PM - 177.9.43.40 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 08:15:06 PM - 186.197.63.179 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 08:16:10 PM - 200.206.195.91 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 08:16:15 PM - 200.206.195.91 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 08:18:01 PM - 187.74.139.4 - other - 0 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 08:22:36 PM - 186.197.63.179 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 08:25:41 PM - 186.197.63.179 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 08:26:43 PM - 189.59.156.37 - Chrome - 49.0.2623.91 -  - Minas Gerais - Brazil
+Friday 11th of March 2016 08:34:04 PM - 177.206.113.178 - Safari - 601.1 -  - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 08:34:08 PM - 187.122.160.74 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 11th of March 2016 08:48:05 PM - 191.172.163.46 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 08:48:10 PM - 179.180.32.137 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 08:49:18 PM - 179.180.32.137 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 09:03:42 PM - 191.121.238.52 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 09:34:53 PM - 186.215.192.150 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 09:38:38 PM - 189.27.5.136 - Safari - 534.30 -  -  - Brazil
+Friday 11th of March 2016 09:51:18 PM - 187.122.124.171 - Chrome - 48.0.2564.95 - Osasco - S&atilde;o Paulo - Brazil
+Friday 11th of March 2016 10:18:39 PM - 187.101.163.252 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 10:18:51 PM - 187.101.163.252 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 10:20:02 PM - 187.101.163.252 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 10:34:28 PM - 186.205.123.19 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 10:38:37 PM - 186.250.133.177 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 10:54:24 PM - 201.29.101.232 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 11:03:39 PM - 201.29.101.232 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 11:16:23 PM - 201.5.30.240 - Chrome - 48.0.2564.95 -  -  - Brazil
+Friday 11th of March 2016 11:16:34 PM - 191.191.240.93 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 11:16:49 PM - 191.191.240.93 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 11:26:00 PM - 177.143.84.40 - Safari - 601.1 -  -  - Brazil
+Friday 11th of March 2016 11:29:49 PM - 189.39.105.56 - Chrome - 48.0.2564.116 -  -  - Brazil
+Friday 11th of March 2016 11:33:01 PM - 177.116.35.129 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 11th of March 2016 11:46:09 PM - 191.189.48.178 - Safari - 601.1 -  -  - Brazil
+Saturday 12th of March 2016 12:05:01 AM - 187.107.15.174 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 12:05:03 AM - 187.107.15.174 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 12:12:23 AM - 152.244.130.246 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 12:13:35 AM - 187.107.15.174 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 12:15:04 AM - 187.107.15.174 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 12:29:15 AM - 186.237.89.137 - Safari - 601.1 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 12:29:21 AM - 186.237.89.137 - Safari - 601.1 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 03:15:59 AM - 181.213.120.92 - Safari - 533.1 -  -  - Brazil
+Saturday 12th of March 2016 06:11:50 AM - 177.176.242.76 - Chrome - 39.0.2171.93 -  -  - Brazil
+Saturday 12th of March 2016 06:11:56 AM - 177.176.242.76 - Chrome - 39.0.2171.93 -  -  - Brazil
+Saturday 12th of March 2016 06:51:13 AM - 179.158.254.40 - Safari - 537 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 07:11:36 AM - 177.79.35.150 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 07:38:27 AM - 200.222.130.195 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 07:38:57 AM - 200.222.130.195 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 07:39:38 AM - 177.211.196.174 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 07:39:59 AM - 200.222.130.195 - Chrome - 49.0.2623.91 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 08:12:19 AM - 138.99.143.116 - Chrome - 47.0.2526.83 -  -  - Brazil
+Saturday 12th of March 2016 09:20:24 AM - 201.23.172.3 - Chrome - 46.0.2486.0 -  -  - Brazil
+Saturday 12th of March 2016 09:33:24 AM - 177.79.46.154 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 09:33:42 AM - 187.64.233.153 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 09:33:56 AM - 187.64.233.153 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 09:34:05 AM - 177.79.41.49 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 09:34:11 AM - 187.64.233.153 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 09:35:10 AM - 187.64.233.153 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 09:36:17 AM - 187.64.233.153 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 09:37:21 AM - 187.64.233.153 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 09:40:57 AM - 187.64.233.153 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 09:53:12 AM - 177.72.88.89 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 10:22:14 AM - 187.116.212.151 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 10:22:16 AM - 187.116.212.151 - Safari - 534.30 -  -  - Brazil
+Saturday 12th of March 2016 11:14:58 AM - 187.66.152.11 - Safari - 601.1 -  -  - Brazil
+Saturday 12th of March 2016 11:34:34 AM - 201.51.148.169 - Chrome - 49.0.2623.91 -  -  - Brazil
+Saturday 12th of March 2016 11:34:39 AM - 201.51.148.169 - Chrome - 49.0.2623.91 -  -  - Brazil
+Saturday 12th of March 2016 11:35:30 AM - 201.51.148.169 - Chrome - 49.0.2623.91 -  -  - Brazil
+Saturday 12th of March 2016 11:40:59 AM - 189.45.13.45 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 12:05:01 PM - 191.177.25.206 - Firefox - 45.0 -  -  - Brazil
+Saturday 12th of March 2016 01:09:51 PM - 191.180.90.243 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 01:46:41 PM - 177.110.117.105 - Chrome - 49.0.2623.91 -  -  - Brazil
+Saturday 12th of March 2016 04:10:56 PM - 189.4.30.250 - Safari - 601.1 -  -  - Brazil
+Saturday 12th of March 2016 04:18:12 PM - 186.244.131.27 - Chrome - 46.0.2490.76 - Rio De Janeiro - Rio de Janeiro - Brazil
+Saturday 12th of March 2016 04:42:34 PM - 191.174.244.98 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 05:29:59 PM - 138.99.252.69 - Chrome - 49.0.2623.91 -  -  - Brazil
+Saturday 12th of March 2016 07:42:00 PM - 189.26.20.189 - Firefox - 43.0 -  -  - Brazil
+Saturday 12th of March 2016 07:45:25 PM - 177.177.141.23 - Chrome - 48.0.2564.95 -  -  - Brazil
+Saturday 12th of March 2016 07:53:30 PM - 191.53.140.54 - Chrome - 49.0.2623.91 -  -  - Brazil
+Saturday 12th of March 2016 07:55:07 PM - 191.53.140.54 - Chrome - 49.0.2623.91 -  -  - Brazil
+Saturday 12th of March 2016 10:04:22 PM - 200.207.59.24 - Chrome - 48.0.2564.116 - Campinas - S&atilde;o Paulo - Brazil
+Saturday 12th of March 2016 10:38:40 PM - 177.155.67.193 - Chrome - 49.0.2623.91 - Taquari - Rio Grande do Sul - Brazil
+Saturday 12th of March 2016 11:17:24 PM - 201.51.148.169 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 13th of March 2016 12:06:01 AM - 189.79.29.168 - Chrome - 49.0.2623.91 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Sunday 13th of March 2016 07:20:05 AM - 177.35.226.117 - Chrome - 49.0.2623.91 - Valinhos - S&atilde;o Paulo - Brazil
+Sunday 13th of March 2016 07:23:11 AM - 138.117.191.230 - Safari - 534.30 - Aramina - S&atilde;o Paulo - Brazil
+Sunday 13th of March 2016 08:22:25 AM - 187.105.98.215 - Chrome - 28.0.1500.94 -  -  - Brazil
+Sunday 13th of March 2016 12:03:58 PM - 179.228.140.231 - Firefox - 45.0 -  -  - Brazil
+Sunday 13th of March 2016 01:30:19 PM - 189.105.5.85 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 13th of March 2016 01:30:58 PM - 189.105.5.85 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 13th of March 2016 02:51:30 PM - 200.203.58.24 - Chrome - 48.0.2564.95 -  -  - Brazil
+Sunday 13th of March 2016 04:56:51 PM - 179.255.8.41 - Chrome - 47.0.2526.83 -  -  - Brazil
+Sunday 13th of March 2016 08:44:08 PM - 187.183.130.126 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 13th of March 2016 10:47:45 PM - 179.223.92.149 - Chrome - 48.0.2564.95 -  -  - Brazil
+Sunday 13th of March 2016 10:51:33 PM - 179.223.92.149 - Chrome - 48.0.2564.95 -  -  - Brazil
+Sunday 13th of March 2016 10:51:59 PM - 179.223.92.149 - Chrome - 48.0.2564.95 -  -  - Brazil
+Monday 14th of March 2016 02:53:54 AM - 179.96.160.250 - Chrome - 48.0.2564.106 - Duque De Caxias - Rio de Janeiro - Brazil
+Monday 14th of March 2016 02:54:13 AM - 179.96.160.250 - Chrome - 48.0.2564.106 - Duque De Caxias - Rio de Janeiro - Brazil
+Monday 14th of March 2016 07:00:48 AM - 191.247.225.18 - Chrome - 49.0.2623.91 -  -  - Brazil
+Monday 14th of March 2016 07:00:57 AM - 191.247.225.18 - Chrome - 49.0.2623.91 -  -  - Brazil
+Monday 14th of March 2016 07:17:22 AM - 177.116.242.29 - Safari - 534.30 -  -  - Brazil
+Monday 14th of March 2016 07:34:25 AM - 177.197.210.225 - Chrome - 49.0.2623.91 -  -  - Brazil
+Monday 14th of March 2016 09:05:50 AM - 201.40.186.63 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 09:08:52 AM - 200.133.203.103 - Safari - 537 -  -  - Brazil
+Monday 14th of March 2016 09:12:11 AM - 177.41.158.85 - Chrome - 49.0.2623.87 -  -  - Brazil
+Monday 14th of March 2016 09:35:13 AM - 187.94.100.146 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 09:43:52 AM - 187.127.35.1 - Chrome - 47.0.2526.106 -  -  - Brazil
+Monday 14th of March 2016 10:07:39 AM - 189.80.44.90 - Chrome - 38.0.2125.102 -  -  - Brazil
+Monday 14th of March 2016 10:07:49 AM - 189.80.44.90 - Chrome - 38.0.2125.102 -  -  - Brazil
+Monday 14th of March 2016 10:15:23 AM - 177.41.80.216 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 10:23:04 AM - 177.79.12.223 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Monday 14th of March 2016 10:47:46 AM - 189.4.125.93 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 01:32:51 PM - 177.210.104.1 - Safari - 534.30 -  -  - Brazil
+Monday 14th of March 2016 01:33:13 PM - 189.26.153.162 - Chrome - 48.0.2564.95 -  -  - Brazil
+Monday 14th of March 2016 01:40:57 PM - 177.210.104.1 - Safari - 534.30 -  -  - Brazil
+Monday 14th of March 2016 01:41:36 PM - 177.210.104.1 - Safari - 534.30 -  -  - Brazil
+Monday 14th of March 2016 02:31:24 PM - 187.19.150.50 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 02:51:12 PM - 187.127.238.34 - Chrome - 30.0.1599.103 -  -  - Brazil
+Monday 14th of March 2016 03:18:38 PM - 177.1.73.162 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 03:25:33 PM - 177.1.73.162 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 03:25:43 PM - 177.1.73.162 - Chrome - 48.0.2564.116 -  -  - Brazil
+Monday 14th of March 2016 04:14:17 PM - 177.188.39.185 - Safari - 534.30 -  -  - Brazil
+Monday 14th of March 2016 07:07:21 PM - 179.210.17.206 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Monday 14th of March 2016 07:09:04 PM - 179.210.17.206 - Chrome - 48.0.2564.95 - Rio De Janeiro - Rio de Janeiro - Brazil
+Monday 14th of March 2016 08:55:41 PM - 201.81.21.30 - Safari - 600.1.4 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Monday 14th of March 2016 08:55:42 PM - 189.29.111.89 - Chrome - 49.0.2623.91 -  - S&atilde;o Paulo - Brazil
+Monday 14th of March 2016 08:55:46 PM - 201.81.21.30 - Safari - 600.1.4 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Monday 14th of March 2016 11:00:37 PM - 191.180.193.154 - Chrome - 49.0.2623.91 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Tuesday 15th of March 2016 12:16:01 AM - 187.13.194.245 - Safari - 600.1.4 - Rio De Janeiro - Rio de Janeiro - Brazil
+Tuesday 15th of March 2016 08:29:37 AM - 177.176.60.173 - Safari - 537 -  -  - Brazil
+Tuesday 15th of March 2016 09:39:56 AM - 186.250.56.23 - Chrome - 49.0.2623.91 - Rio Claro - S&atilde;o Paulo - Brazil
+Tuesday 15th of March 2016 11:25:50 AM - 201.47.246.154 - Chrome - 49.0.2623.87 - Porto Alegre - Rio Grande do Sul - Brazil
+Tuesday 15th of March 2016 11:28:25 AM - 201.47.246.154 - Chrome - 49.0.2623.87 - Porto Alegre - Rio Grande do Sul - Brazil
+Tuesday 15th of March 2016 08:59:49 PM - 177.91.154.157 - Chrome - 49.0.2623.87 -  - Rio Grande do Sul - Brazil
+Tuesday 15th of March 2016 09:48:47 PM - 201.19.255.21 - Chrome - 30.0.1599.103 - Rio De Janeiro - Rio de Janeiro - Brazil
+Tuesday 15th of March 2016 09:48:57 PM - 201.19.255.21 - Chrome - 30.0.1599.103 - Rio De Janeiro - Rio de Janeiro - Brazil
+Wednesday 16th of March 2016 06:43:49 AM - 201.49.85.135 - Chrome - 48.0.2564.95 -  -  - Brazil
+Wednesday 16th of March 2016 09:21:23 AM - 186.219.94.31 - Safari - 601.1 -  -  - Brazil
+Wednesday 16th of March 2016 09:21:45 AM - 186.219.94.31 - Safari - 601.1 -  -  - Brazil
+Wednesday 16th of March 2016 10:45:50 AM - 201.37.161.130 - Chrome - 47.0.2526.83 - Porto Alegre - Rio Grande do Sul - Brazil
+Wednesday 16th of March 2016 11:00:33 AM - 177.176.226.213 - Chrome - 48.0.2564.95 -  -  - Brazil
+Wednesday 16th of March 2016 03:21:20 PM - 177.13.227.38 - Chrome - 48.0.2564.116 - Bras&iacute;lia - Distrito Federal - Brazil
+Wednesday 16th of March 2016 05:45:50 PM - 179.118.5.182 - Chrome - 49.0.2623.87 -  -  - Brazil
+Wednesday 16th of March 2016 09:24:51 PM - 201.88.209.173 - Chrome - 48.0.2564.95 -  -  - Brazil
+Thursday 17th of March 2016 09:58:23 AM - 201.22.113.154 - Safari - 534.30 -  -  - Brazil
+Thursday 17th of March 2016 01:55:40 PM - 189.47.52.195 - Chrome - 49.0.2623.91 -  -  - Brazil
+Thursday 17th of March 2016 02:15:25 PM - 187.41.78.55 - Chrome - 49.0.2623.91 -  -  - Brazil
+Thursday 17th of March 2016 02:59:23 PM - 177.97.204.157 - Chrome - 48.0.2564.95 -  -  - Brazil
+Thursday 17th of March 2016 03:00:22 PM - 177.97.204.157 - Chrome - 44.0.2403.90 -  -  - Brazil
+Thursday 17th of March 2016 03:00:35 PM - 177.97.204.157 - Chrome - 44.0.2403.90 -  -  - Brazil
+Thursday 17th of March 2016 03:00:52 PM - 177.97.204.157 - Chrome - 44.0.2403.90 -  -  - Brazil
+Friday 18th of March 2016 08:30:29 AM - 179.126.234.232 - Chrome - 49.0.2623.91 -  -  - Brazil
+Friday 18th of March 2016 09:50:32 AM - 177.80.77.210 - other - 0 -  -  - Brazil
+Friday 18th of March 2016 02:22:57 PM - 191.247.231.37 - Chrome - 48.0.2564.95 - S&atilde;o Paulo - S&atilde;o Paulo - Brazil
+Saturday 19th of March 2016 09:43:27 PM - 201.3.25.152 - Chrome - 49.0.2623.87 -  -  - Brazil
+Sunday 20th of March 2016 09:41:14 AM - 152.236.70.149 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 20th of March 2016 09:42:18 AM - 152.236.70.149 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 20th of March 2016 09:42:50 AM - 152.236.70.149 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 20th of March 2016 09:44:53 AM - 152.236.70.149 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 20th of March 2016 09:45:22 AM - 152.236.70.149 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 20th of March 2016 09:45:30 AM - 152.236.70.149 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 20th of March 2016 09:45:46 AM - 152.236.70.149 - Chrome - 49.0.2623.91 -  -  - Brazil
+Sunday 20th of March 2016 08:28:55 PM - 187.95.18.28 - Chrome - 33.0.0.0 -  - S&atilde;o Paulo - Brazil
+Monday 21st of March 2016 01:01:14 AM - 191.247.228.38 - Chrome - 36.0.1985.135 -  - S&atilde;o Paulo - Brazil
+Monday 21st of March 2016 12:13:11 PM - 200.133.1.59 - Chrome - 49.0.2623.87 - Olinda - Pernambuco - Brazil
+Wednesday 23rd of March 2016 08:16:16 PM - 179.223.17.22 - Chrome - 49.0.2623.87 -  -  - Brazil
+Thursday 24th of March 2016 02:33:11 AM - 179.223.17.22 - Chrome - 49.0.2623.87 -  -  - Brazil
+Thursday 24th of March 2016 02:34:09 AM - 179.223.17.22 - Chrome - 49.0.2623.87 -  -  - Brazil
+Thursday 24th of March 2016 02:34:13 AM - 179.223.17.22 - Chrome - 49.0.2623.87 -  -  - Brazil
+Thursday 24th of March 2016 01:06:55 PM - 177.80.77.210 - other - 0 -  -  - Brazil
+Thursday 24th of March 2016 01:12:52 PM - 177.80.77.210 - other - 0 -  -  - Brazil
+Thursday 24th of March 2016 01:36:57 PM - 177.80.77.210 - other - 0 -  -  - Brazil
+Thursday 24th of March 2016 01:47:05 PM - 189.54.233.28 - Chrome - 49.0.2623.87 -  -  - Brazil
+Wednesday 30th of March 2016 12:15:43 AM - 187.255.226.173 - Chrome - 49.0.2623.105 - Joinville - Santa Catarina - Brazil
+Wednesday 30th of March 2016 12:19:51 AM - 187.255.226.173 - Chrome - 49.0.2623.105 - Joinville - Santa Catarina - Brazil
+Thursday 31st of March 2016 05:08:44 PM - 187.6.0.48 - Chrome - 49.0.2623.105 -  -  - Brazil
+Friday 1st of April 2016 09:40:50 AM - 186.212.62.11 - Chrome - 49.0.2623.110 -  -  - Brazil
+Friday 1st of April 2016 03:32:45 PM - 187.13.199.116 - Chrome - 49.0.2623.105 -  -  - Brazil
+Friday 1st of April 2016 08:37:35 PM - 187.14.50.188 - Chrome - 49.0.2623.105 - Rio De Janeiro - Rio de Janeiro - Brazil
+Friday 1st of April 2016 08:40:02 PM - 187.14.50.188 - Chrome - 49.0.2623.105 - Rio De Janeiro - Rio de Janeiro - Brazil
+Monday 4th of April 2016 12:43:13 PM - 177.205.117.20 - Chrome - 49.0.2623.105 -  - Distrito Federal - Brazil
+Monday 4th of April 2016 12:53:04 PM - 177.235.212.38 - Chrome - 49.0.2623.105 -  - Distrito Federal - Brazil
+Monday 4th of April 2016 12:53:37 PM - 177.235.212.38 - Chrome - 49.0.2623.105 -  - Distrito Federal - Brazil
+Monday 4th of April 2016 12:53:58 PM - 177.235.212.38 - Chrome - 49.0.2623.105 - Bras&iacute;lia - Distrito Federal - Brazil
+Monday 4th of April 2016 12:54:26 PM - 177.235.212.38 - Chrome - 49.0.2623.105 - Bras&iacute;lia - Distrito Federal - Brazil
+Tuesday 5th of April 2016 10:00:12 PM - 201.58.245.29 - Chrome - 49.0.2623.105 -  -  - Brazil
+Wednesday 6th of April 2016 12:46:08 PM - 152.238.139.239 - Chrome - 49.0.2623.105 -  -  - Brazil
+Thursday 7th of April 2016 09:05:00 AM - 187.122.200.5 - Chrome - 49.0.2623.105 -  -  - Brazil
+Thursday 7th of April 2016 09:05:12 AM - 187.122.200.5 - Chrome - 49.0.2623.105 -  -  - Brazil
+Saturday 9th of April 2016 12:42:23 PM - 187.78.10.129 - Chrome - 49.0.2623.110 - Olinda - Pernambuco - Brazil
+Saturday 9th of April 2016 11:04:01 PM - 201.2.135.1 - Chrome - 49.0.2623.110 -  -  - Brazil
+Wednesday 27th of April 2016 09:43:08 AM - 177.134.145.65 - Chrome - 38.0.2125.102 -  -  - Brazil
+Sunday 5th of June 2016 12:14:46 PM - 191.240.180.71 - Chrome - 18.0.1025.308 -  -  - Brazil
+Tuesday 14th of June 2016 12:04:32 AM - 187.2.143.245 - Chrome - 51.0.2704.84 -  -  - Brazil
+Tuesday 14th of June 2016 12:04:42 AM - 187.2.143.245 - Chrome - 51.0.2704.84 -  -  - Brazil
