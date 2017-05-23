@@ -9,5 +9,3 @@
 
 
 http://localhost/vi/home
-
-administrator/pearlsea123
