@@ -191,6 +191,13 @@ return [
      'admin' => [
         'reception_email' => 'letanbienngoc@gmail.com',
         'main_email' => 'pearlseahotel@gmail.com',
-        'imagePath' => 'public/images'
+        'imagePath' => 'public/images',
+        'room' => [
+            '1' => 'STANDARD',
+            '2' => 'SUPERIOR DOUBLE',
+            '3' => 'SUPERIOR TRIPLE',
+            '4' => 'DELUXE DOUBLE',
+            '5' => 'DELUXE TRIPLE'
+        ]
     ]
 ];

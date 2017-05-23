@@ -17,13 +17,16 @@ function upload(controlId) {
                 if(res.type == 'TOUR'){
                   addImageTour(res.data);
                 }
+                document.forms.namedItem("upload_image").reset();
             }
             dialogUpload.dialog("close");
         },
         error:function () {
             showMessage('Upload thất bại');
+            document.forms.namedItem("upload_image").reset();
+            dialogUpload.dialog("close");
         },
-        timeout: 10000
+        timeout: 5000
     });
 }
 
@@ -45,10 +48,13 @@ function replace(controlId, oldFile) {
             $('#' + controlId).val(data.data.img_src);
             $('#' + controlId + '_thumbnail').val(data.data.img_thumb);
             $('#' + controlId + '_src').attr('src', assetBaseUrl + data.data.img_src + "?t=" + new Date().getTime());
+            document.forms.namedItem("upload_image").reset();
         }, error: function () {
             showMessage("Upload thất bại");
+            document.forms.namedItem("upload_image").reset();
+            dialogUpload.dialog("close");
         },
-        timeout: 10000
+        timeout: 5000
     });
 }
 function uploadImage() {
@@ -76,11 +82,15 @@ function uploadGallery(typeRoom){
         data: formdata, // high importance!
         processData: false, // high importance!
         success: function (res) {
-            
+            getImages();
+            document.forms.namedItem("upload_image").reset();
+            dialogUpload.dialog("close");
         },
         error:function () {
             showMessage('Upload thất bại');
+            document.forms.namedItem("upload_image").reset();
+            dialogUpload.dialog("close");
         },
-        timeout: 10000
+        timeout: 5000
     });
 }

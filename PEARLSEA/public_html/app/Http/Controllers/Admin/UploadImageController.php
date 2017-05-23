@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 
+use App\Gallery;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
@@ -53,19 +54,32 @@ class UploadImageController extends Controller
                 if($typeName == 'GALLERY'){
                     $room = Input::get('g_room_type');
                     $destinationPath = $destinationPath  . '/gallery/' . $room;
-                }
-               
-                Input::file('image')->move($destinationPath, $fileName); // uploading file to given path
-
+                }    
+                
                 Log::info('Image is uploaded to '. $destinationPath . '/' . $fileName);
-
+                
                 if($typeName == 'GALLERY'){
+                    Image::make(Input::file('image')->getRealPath())->resize(870, null, function ($constraint) {
+                        $constraint->aspectRatio();
+                    })->save($destinationPath . '/' . $fileName);
+
                     $img = Image::make($destinationPath . '/' . $fileName);    
+                    Log::info('Image thumb is uploaded to '. $destinationPath . '/' .$fileThumb);
                     $img->resize(300, 200, function ($constraint) {
                         $constraint->aspectRatio();
                     })->save($destinationPath . '/' .$fileThumb);
-                    Log::info('Image thumb is uploaded to '. $destinationPath . '/' .$fileThumb);
+
+                    $gallery = Gallery::create();
+                    $gallery->room_id = $room;
+                    $gallery->url = $destinationPath . '/' . $fileName;
+                    $gallery->thumb = $destinationPath . '/' .$fileThumb;
+                    $gallery->alt = Config::get('constants.admin.room.' . $room);
+                    $gallery->save();
+                    
+                }else{
+                    Input::file('image')->move($destinationPath, $fileName); // uploading file to given path
                 }
+
                 // sending back with message
                 Session::flash('success', 'Upload successfully');
                 return Response::json(['success' => true, 'type' =>  $typeName,'data' => $destinationPath . '/' . $fileName]);
@@ -93,16 +107,25 @@ class UploadImageController extends Controller
         } else {
             // checking file is valid.
             if (Input::file('image')->isValid()) {
+                Log::info('Change ROOM image  '. $filePath);
 
                 $xmlFile = pathinfo($filePath);
                 $dir = $xmlFile['dirname'];
                 $filename = $xmlFile['basename'];
                 $img = Image::make(Input::file('image')->getRealPath());
+
+                // resize the image to a width of 300 and constrain aspect ratio (auto height)
+                $img->resize(870, null, function ($constraint) {
+                    $constraint->aspectRatio();
+                })->save($dir . '/' . $filename);
+
+                $smName = str_replace("_L","",$filename);
                 $img->resize(300, 200, function ($constraint) {
                     $constraint->aspectRatio();
-                })->save($dir . '/thumb_' . $filename);
+                })->save($dir . '/' . $smName);
+                
 
-                Input::file('image')->move($dir, $filename); // uploading file to given path
+//                Input::file('image')->move($dir, $filename); // uploading file to given path
                 // sending back with message
                 Session::flash('success', 'Upload successfully');
 
