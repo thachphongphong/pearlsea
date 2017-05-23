@@ -12,5 +12,6 @@ Homestead.yaml
 npm-debug.log
 .env
 public_html/public/public/
+public_html/storage/framework/views/*
+public_html/storage/framework/sessions/*
 public_html/storage/framework/views/
-public_html/storage/framework/sessions/
